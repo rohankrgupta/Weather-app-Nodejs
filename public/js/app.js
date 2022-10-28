@@ -6,6 +6,7 @@ const msgOne = document.querySelector('#Msg-1')
 const msgTwo = document.querySelector('#Msg-2')
 
 //msgOne.textContent = 'From Javascript'
+//comment by Friend
 
 weatherForm.addEventListener('submit', (e)=>{
     
